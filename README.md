@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently looking for work-study(alternance in French) contract or full time job as a junior developer ! 
+🔭I'm currently looking for work-study(alternance in French) contract or full time job as a junior developer ! <br>
 🔭 I’m currently working on Symfony 5 / APIs with PHP <br>🤝 I’m looking for help with Symfony 5<br>🌱 I’m currently learning Symfony 5<br>💬 Ask me about PHP/Javascript / HTML / CSS Basics<br>
 
 
