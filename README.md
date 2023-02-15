@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I'm currently looking for work-study(alternance in French) contract or full time job as a junior developer ! <br> 
-🖥️ Je suis actuellement en recherche de travail en tant qu'alternant concepteur développeur d'applications ! <br> 
+🔭 I'm currently working as a work-study(alternance in French) employee as a junior developer ! <br> 
+🖥️ Je travail en tant qu'alternant concepteur développeur d'applications ! <br> 
 🔭 I’m currently working on Prestashop / Javascript(ES6) / git <br>🤝 I’m looking for help with Symfony 5<br>🌱 I’m currently learning Symfony 5 and Prestashop <br>💬 Ask me about PHP / Javascript / HTML / CSS Basics<br>
 
 
