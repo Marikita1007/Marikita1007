@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I'm currently working as a work-study(alternance in French) employee as a junior developer ! <br> 
 🖥️ Je travail en tant qu'alternant concepteur développeur d'applications ! <br> 
-🔭 I’m currently working on Prestashop / Javascript(ES6) / git <br>🤝 I’m looking for help with Symfony <br>🌱 I’m currently learning Symfony and REACT <br>💬 Ask me about Symfony / PHP / Javascript / HTML / CSS Basics<br>
+🔭 I’m currently working on Prestashop / Javascript(ES6) / git <br>🤝 I’m looking for help with Symfony <br>🌱 I’m currently learning Symfony and REACT <br>💬 Ask me about Symfony / PHP / Javascript / HTML / CSS <br>
 
 
 ## 🌐 Socials:
