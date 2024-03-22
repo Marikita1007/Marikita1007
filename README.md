@@ -1,8 +1,7 @@
 # 💫 About Me:
-🔭 I'm currently working as a work-study(alternance in French) employee as a junior developer ! <br> 
-🖥️ Je travail en tant qu'alternant concepteur développeur d'applications ! <br> 
-🔭 I’m currently learning Symfony and REACT <br>💬 Ask me about Symfony / PHP / Javascript / HTML / CSS <br>
-
+🎓 Recently graduated with a "Développeur web full stack" diploma after completing a year-long alternance as a junior developer! <br>
+🖥️ Actively contributing as a concepteur développeur d'applications ! <br>
+🔭 Currently honing my skills in Symfony and REACT <br>💬 Feel free to ask me anything about Symfony / PHP / Javascript / HTML / CSS <br>
 
 ## 🌐 Socials:
 [![PHP website MVC Model](https://img.shields.io/badge/PHP_Website-%230077B5.svg)](https://marika-abe.fr/)
