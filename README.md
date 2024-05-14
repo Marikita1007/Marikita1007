@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Recently graduated with a "Développeur web full stack" diploma after completing a year-long alternance as a junior developer! <br>
+🎓 Recently graduated with a "Développeur web full stack" diploma after completing a year-long alternance as a junior developer ! <br>
 🖥️ Actively looking for an alternance (work-study) contract or full-time remote job as a developer! <br>
 🔭 Currently honing my skills in Symfony and REACT <br>
 💬 Feel free to ask me anything about Symfony / PHP / Javascript / HTML / CSS <br>
