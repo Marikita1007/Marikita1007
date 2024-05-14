@@ -18,7 +18,8 @@ Explore some of my latest projects:
 
 [![REACT](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](http://ez-shopping.free.nf/) - Check out my React project with API !
 
-[![Symfony Receipe sharing site](https://img.shields.io/badge/Symfony-%230077B5.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://marika-abe.fr/) - Discover my Symfony Recipe Sharing Site ! 
+[![Symfony Receipe sharing site](https://img.shields.io/badge/Symfony-%230077B5.svg?style=for-the-badge&logo=symfony&logoColor=white)](https://marika-abe.fr/)
+- Discover my Symfony Recipe Sharing Site! (Currently in the process of deployment, only the homepage is available.)
 
 
 # 💻 Tech Stack:
