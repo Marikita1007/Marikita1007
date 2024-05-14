@@ -4,7 +4,8 @@
 🔭 Currently honing my skills in Symfony and REACT <br>💬 Feel free to ask me anything about Symfony / PHP / Javascript / HTML / CSS <br>
 
 ## 🌐 Socials:
-[![PHP website MVC Model](https://img.shields.io/badge/PHP_Website-%230077B5.svg)](https://marika-abe.fr/)
+![REACT API](http://ez-shopping.free.nf/)
+[![Symfony Receipe sharing site](https://img.shields.io/badge/PHP_Website-%230077B5.svg)](https://marika-abe.fr/) 
 
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
