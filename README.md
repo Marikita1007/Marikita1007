@@ -3,10 +3,14 @@
 🖥️ Actively contributing as a concepteur développeur d'applications ! <br>
 🔭 Currently honing my skills in Symfony and REACT <br>💬 Feel free to ask me anything about Symfony / PHP / Javascript / HTML / CSS <br>
 
-## 🌐 Socials:
-[![REACT](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](http://ez-shopping.free.nf/)
+## 🚀 My Projects:
+Explore some of my latest projects:
 
-[![Symfony Receipe sharing site](https://img.shields.io/badge/PHP_Website-%230077B5.svg)](https://marika-abe.fr/) 
+[![REACT](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](http://ez-shopping.free.nf/)
+- Check out my React project!
+
+[![Symfony Receipe sharing site](https://img.shields.io/badge/PHP_Website-%230077B5.svg)](https://marika-abe.fr/)
+- Discover my Symfony Recipe Sharing Site!
 
 # 💻 Tech Stack:
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
