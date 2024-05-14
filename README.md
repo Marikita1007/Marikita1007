@@ -1,7 +1,17 @@
 # 💫 About Me:
 🎓 Recently graduated with a "Développeur web full stack" diploma after completing a year-long alternance as a junior developer! <br>
-🖥️ Actively contributing as a concepteur développeur d'applications ! <br>
-🔭 Currently honing my skills in Symfony and REACT <br>💬 Feel free to ask me anything about Symfony / PHP / Javascript / HTML / CSS <br>
+🖥️ Actively looking for an alternance (work-study) contract or full-time remote job as a developer! <br>
+🔭 Currently honing my skills in Symfony and REACT <br>
+💬 Feel free to ask me anything about Symfony / PHP / Javascript / HTML / CSS <br>
+🌱 Je suis actuellement à la recherche d'un contrat d'alternance ou d'un emploi à temps plein en télétravail en tant que développeur ! <br>
+🏙️ フランスからのフルリモートでのお仕事にも興味がございますので、お気軽にお問い合わせくださいませ。
+
+## 🌐 Connect with Me:
+Feel free to connect with me on LinkedIn:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marika-abe)
+
+
 
 ## 🚀 My Projects:
 Explore some of my latest projects:
